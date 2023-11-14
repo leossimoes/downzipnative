@@ -1,0 +1,7 @@
+{
+  "name": "com.downzip.downzip",
+  "description": "Downzip native host",
+  "path": "./DownzipNative.exe",
+  "type": "stdio",
+  "allowed_origins": ["chrome-extension://idjklaldhblgnbpiajghgcbkbdldfmjm/"]
+}
